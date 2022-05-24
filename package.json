@@ -1,12 +1,12 @@
 {
   "name": "@digitalnative/bookkeeper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "bookkeeping library for smart contracts in multichain environment",
   "repository": "https://github.com/hskang9/bookkeeper.git",
   "author": "Hyungsuk Kang <hskang9@gmail.com>",
   "license": "MIT",
-  "main": "dist/index",
-  "typings": "dist/index",
+  "main": "dist/index.js",
+  "typings": "dist/inde.js",
   "scripts": {
     "build": "tsc",
     "prepare": "yarn build"
